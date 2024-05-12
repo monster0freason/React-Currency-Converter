@@ -1,13 +1,12 @@
-# React-Currency-Converter
-  A sleek React-based currency converter that fetches real-time exchange rates. Effortlessly convert between currencies with a user-friendly interface.
 
-  Certainly! Below is a detailed README file for your project:
-
----
 
 # React Currency Converter
 
-A simple currency converter built with React, utilizing real-time exchange rates.
+A sleek React-based currency converter that fetches real-time exchange rates. Effortlessly convert between currencies with a user-friendly interface.
+
+## Demo
+
+You can find a live demo [here](https://currencyxchangepro.netlify.app/) 
 
 ## Table of Contents
 
@@ -24,8 +23,9 @@ A simple currency converter built with React, utilizing real-time exchange rates
 To get started, clone the repository to your local machine:
 
 ```bash
-git clone <repository_url>
-cd <project_folder>
+git clone https://github.com/monster0freason/React-Currency-Converter
+cd React-Currency-Converter
+cd currency-converter
 ```
 
 Then, install the dependencies:
@@ -39,10 +39,10 @@ npm install
 Start the development server:
 
 ```bash
-npm start
+npm run dev
 ```
 
-The app will be running at [http://localhost:3000](http://localhost:3000).
+The app will be running at [http://localhost:5173](http://localhost:5173).
 
 ## Folder Structure
 
@@ -86,4 +86,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Feel free to adjust the sections or add more details according to your preferences and requirements.
